@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+
+/* used for majority of pages */
+
+#content {
+	background-color: white;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 5px;
+	outline: none;
+	box-shadow: 0 0 0 2pt #ddd;
+	font-family: 'Trebuchet MS', sans-serif;
+	padding: 0px 20px;
+}

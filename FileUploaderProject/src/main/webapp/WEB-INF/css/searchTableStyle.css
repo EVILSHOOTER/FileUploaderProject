@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+
+/* used for majority of tables  */
+
+.searchResults {
+	width: 100%;
+	border-radius: 5px;
+	border-spacing: 1px;
+}
+.searchResults, .searchResults th, .searchResults td {
+	border: 1px solid;
+	border-radius: 2px;
+}
+.searchResults th {
+	background-color: #a8a8a8;
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
+.searchResults tr:nth-child(even) {
+	background-color: #f0f0f0;
+}
+.searchResults tr:hover {
+	background-color: #dbdbdb;
+}
