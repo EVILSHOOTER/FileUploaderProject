@@ -19,6 +19,8 @@ The code is organised in an MVC (Model-View-Controller) structure with the help 
 - Click the green "Code" button and download the project using "Download ZIP".
 - Extract the project folder into your Eclipse working directory
 - Open the Eclipse IDE and import the project (File > Import > General > Existing Projects Into Workspace) 
+- Using MySQL Workbench, create a new database under the name of "uploaddb"
+- Run the three SQL scripts contained (inside "/db_schema") to create the schema.
 
 ## Features
 - Public downloads list page with search function (by download or user name)
